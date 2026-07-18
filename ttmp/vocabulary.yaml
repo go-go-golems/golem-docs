@@ -5,6 +5,12 @@ topics:
       description: Backend services
     - slug: websocket
       description: WebSocket lifecycle & events
+    - slug: docs-server
+      description: TODO
+    - slug: publish-vault
+      description: TODO
+    - slug: collector
+      description: TODO
 docTypes:
     - slug: design-doc
       description: Structured rationale and architecture notes
